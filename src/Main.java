@@ -43,7 +43,6 @@ public class Main {
                 System.out.println("Месяц " + i + " , сумма накоплений равна " + total + " рублей.");
             }
         }
-
         System.out.println("Задание 2 - Суммы накоплений в банк под 12 %");
         {
             int salary = 29000;
